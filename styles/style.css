@@ -45,7 +45,6 @@
     justify-content: center;
 }
 
-   
 .header__links-list {
     display: flex;
     flex-direction: row;
@@ -76,7 +75,6 @@
 .header__logo-image {
     height: 100%;
 }
-
 
 .address {
     font-family: 'Raleway', Arial, sans-serif;
@@ -124,14 +122,12 @@
     align-self: center;
 }
 
-
 .aligned-text_right {
     text-align: right;
     line-height: 100px;
     display: flex;
     align-self: end;
 }
-
 
 .letter-spacing-extended {
     letter-spacing: 60px;
@@ -227,7 +223,6 @@
 
 .card_type_book {
     background-image: url(../images/card-lot-02.jpg);
-
 }
 
 .card_type_picture {
